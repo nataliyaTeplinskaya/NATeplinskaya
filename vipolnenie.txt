@@ -1,0 +1,31 @@
+Version of OS is 6.2.9200
+System directory C:\WINDOWS\system32
+User name:DNS
+Computer name:        LAPTOP-3G8N7L8F
+
+\\?\Volume{ada72cef-e904-4099-ba94-80390b028c4e}\
+First path: C:\Total size (bytes): 999006662656
+Free space (bytes): 829383081984
+
+\\?\Volume{4961b728-2d1f-4df9-ad24-4cf05c2ada16}\
+First path: Total size (bytes): 1073737728
+Free space (bytes): 521793536
+
+\\?\Volume{8e857d34-bcb0-4a2a-9db5-0ecb6104b604}\
+First path: Total size (bytes): 100663296
+Free space (bytes): 47956992
+
+------------------
+Startup commands:
+1: Browser Manager:  C:\Users\DNS\AppData\Local\Yandex\BrowserManager\MBLauncher.exe
+2: Advanced SystemCare:  C:\Users\DNS\AppData\Local\Yandex\BrowserManager\MBLauncher.exe
+3: CiscoMeetingDaemon:  C:\Users\DNS\AppData\Local\Yandex\BrowserManager\MBLauncher.exe
+4: CiscoSpark:  C:\Users\DNS\AppData\Local\Yandex\BrowserManager\MBLauncher.exe
+5: GoogleChromeAutoLaunch_B923306AB2CE041CE77AA1A79925EABF:  "C:\Program Files (x86)\Yandex\YandexBrowser\Application\browser.exe" --no-startup-window --atlogin-bgr-mark /prefetch:5
+6: OneDrive:  "C:\Users\DNS\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+
+Frequency = 10000000 Hz
+CPU clock = 0.400000 us
+
+Process returned 0 (0x0)   execution time : 0.737 s
+Press any key to continue.
